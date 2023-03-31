@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'Personal-Home-45cc68456a954dbab88b14201475528c',
+  rootNotionPageId: 'Pangyu-Li-45cc68456a954dbab88b14201475528c',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -14,11 +14,11 @@ export default siteConfig({
   author: 'Pangyu Li',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: '',
 
   // social usernames (optional)
   github: 'Foreverythin',
-  linkedin: 'ACoAADNW5E0BCbCu8EM--RH0cEdOBe6O1_8j7E8',
+  // linkedin: 'ACoAADNW5E0BCbCu8EM--RH0cEdOBe6O1_8j7E8',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
