@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Pangyu\'s Personal Page',
-  domain: 'notion-page-n4fhxalbp-foreverythin.vercel.app',
+  domain: 'www.pangyu.ink',
   author: 'Pangyu Li',
 
   // open graph metadata (optional)
