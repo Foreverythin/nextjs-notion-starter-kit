@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   github: 'Foreverythin',
-  linkedin: '李庞于',
+  linkedin: 'ACoAADNW5E0BCbCu8EM--RH0cEdOBe6O1_8j7E8',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
